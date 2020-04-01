@@ -6,6 +6,7 @@ Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa).
 
 
 ![Image](70DCC846-D149-400B-83E4-4BD0AA5FC138.jpeg)
+###### Fig 1. Proyección crecimiento inicial COVID-19 en Chile mes de Marzo. Fuente: Leandro Delgado
 
 ##### Importante: Para el cálculo no se considera los casos recuperados ni los muertos.
 
