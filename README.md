@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa).
+
+## Proyeccion Casos COVID-19 en Chile
 
 You can use the [editor on GitHub](https://github.com/l-delgado/Covid-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
