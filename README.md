@@ -24,6 +24,28 @@ In= cantidad de infectado al día.
 
 Probabilidad de contagio depende de las acciones de cada individuo, ejemplo: No lavarse las mano, estornudar sin taparse, etc.
 
+## Modelo  
+En una gráfica de infectados vs tiempo se obtiene un ΔIn (cantidad de nuevos infectados al día) donde este será directamente proporcional al nivel de exposición, probabilidad de contagia y la cantidad de contagiados al día 
+
+##### ΔIn=E*P*In
+##### Dado que ΔIn=I[n+1]-In
+##### Igualando las ecuaciones se obtiene
+##### I[n+1]-In=E*P*In
+##### I[n+1]=E*P*In+In
+##### I[n+1]=In(E*P+1)
+
+Se logra obtener un factor F=E*P+1 
+
+Reemplazando
+
+##### I[n+1]=In*F
+##### F=I[n+1]/In
+
+Este factor F será el que utilizaré para poder predecir los eventos siguientes, si F es más cercano a 1 significa que la pandemia está estabilizada y no hay nuevos contagios, si F es mayor a 1 significa en términos simples que la pandemia irá creciendo mucho más. Por lo que se utiliza el Factor más cercano a 1 para medir las proyecciones, se obtiene el mejor de los casos constante.
+
+Datos utilizados para realizar la gráfica
+
+
 
 You can use the [editor on GitHub](https://github.com/l-delgado/Covid-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
