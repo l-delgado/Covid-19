@@ -13,9 +13,13 @@ En el modelo de crecimiento de la pandemia se obtuvo un gráfico donde en el eje
 Variables a utilizar:
 
 ΔIn=Cantidad de nuevos infectados en el día.
+
 E=Nivel de exposición.
+
 P=probabilidad de contagio.
+
 In= cantidad de infectado al día.
+
 ΔI[n+1]=Cantidad de nuevos infectados al día siguiente.
 
 Probabilidad de contagio depende de las acciones de cada individuo, ejemplo: No lavarse las mano, estornudar sin taparse, etc.
