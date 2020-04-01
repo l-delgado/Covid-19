@@ -1,9 +1,24 @@
 Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa).
 
-####Chile
+###Chile
 
-## Proyección crecimiento inicial 
-## COVID-19 en Chile
+## Proyección crecimiento inicial COVID-19 en Chile
+
+
+![Image](70DCC846-D149-400B-83E4-4BD0AA5FC138.jpeg)
+
+Importante: Para el cálculo no se considera los casos recuperados ni los muertos.
+
+En el modelo de crecimiento de la pandemia se obtuvo un gráfico donde en el eje horizontal se muestra la fecha y en el eje vertical los infectados.
+Variables a utilizar:
+
+ΔIn=Cantidad de nuevos infectados en el día.
+E=Nivel de exposición.
+P=probabilidad de contagio.
+In= cantidad de infectado al día.
+ΔI[n+1]=Cantidad de nuevos infectados al día siguiente.
+
+Probabilidad de contagio depende de las acciones de cada individuo, ejemplo: No lavarse las mano, estornudar sin taparse, etc.
 
 
 You can use the [editor on GitHub](https://github.com/l-delgado/Covid-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
