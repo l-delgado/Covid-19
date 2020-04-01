@@ -1,13 +1,13 @@
 Realizado por [Leandro Delgado](https://instagram.com/leandrodelgadoa).
 
-###Chile
+#### Chile
 
 ## Proyección crecimiento inicial COVID-19 en Chile
 
 
 ![Image](70DCC846-D149-400B-83E4-4BD0AA5FC138.jpeg)
 
-Importante: Para el cálculo no se considera los casos recuperados ni los muertos.
+##### Importante: Para el cálculo no se considera los casos recuperados ni los muertos.
 
 En el modelo de crecimiento de la pandemia se obtuvo un gráfico donde en el eje horizontal se muestra la fecha y en el eje vertical los infectados.
 Variables a utilizar:
